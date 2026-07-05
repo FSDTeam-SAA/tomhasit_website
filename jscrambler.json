@@ -1,0 +1,24 @@
+{
+  "keys": {
+    "accessKey": "${JSCRAMBLER_ACCESS_KEY}",
+    "secretKey": "${JSCRAMBLER_SECRET_KEY}"
+  },
+  "applicationId": "${JSCRAMBLER_APPLICATION_ID}",
+  "params": [
+    {
+      "name": "objectPropertiesSparsing"
+    },
+    {
+      "name": "variableMasking"
+    },
+    {
+      "name": "whitespaceRemoval"
+    },
+    {
+      "name": "deadCodeInjection"
+    },
+    {
+      "name": "stringConcealing"
+    }
+  ]
+}
