@@ -1,9 +1,9 @@
 {
   "keys": {
-    "accessKey": "${JSCRAMBLER_ACCESS_KEY}",
-    "secretKey": "${JSCRAMBLER_SECRET_KEY}"
+    "accessKey": "${JSCRAMBLER_ACCESS_KEY123}",
+    "secretKey": "${JSCRAMBLER_SECRET_KEY123}"
   },
-  "applicationId": "${JSCRAMBLER_APPLICATION_ID}",
+  "applicationId": "${JSCRAMBLER_APPLICATION_ID123}",
   "params": [
     {
       "name": "objectPropertiesSparsing"
